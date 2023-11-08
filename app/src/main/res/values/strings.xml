@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Application</string>
+
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title">Go to \nWorldSkills 2019</string>
+    <string name="count_steps">10.000 steps</string>
+    <string name="description">Description</string>
+    <string name="info">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus metus at eleifend porttitor. Sed et urna ut nulla condimentum laoreet. Duis et velit ut leo varius blandit. Curabitur accumsan nisi eu leo tristique sollicitudin. Praesent vulputate odio ut porta sollicitudin. Ut accumsan elit orci, in congue turpis posuere ac.</string>
+    <string name="get_result">Send result</string>
+</resources>
